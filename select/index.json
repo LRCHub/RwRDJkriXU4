@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ウォーアイニー",
+  "base_artist": "水曜日のカンパネラ",
+  "createdAt": "2026-02-26T17:16:21.346441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "高橋瞳×BEAT CRUSADERS",
+      "has_synced": true,
+      "path": "select/01_ウォーアイニー_高橋瞳×BEAT_CRUSADERS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "Hitomi Takahashi feat. BEAT CRUSADERS",
+      "has_synced": true,
+      "path": "select/02_ウォーアイニー_Hitomi_Takahashi_feat._BEAT_CRUSADERS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "Takahashi Hitomi X BEAT CRUSADERS",
+      "has_synced": true,
+      "path": "select/03_ウォーアイニー_Takahashi_Hitomi_X_BEAT_CRUSADERS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "高橋瞳 x BEAT CRUSADERS",
+      "has_synced": true,
+      "path": "select/04_ウォーアイニー_高橋瞳_x_BEAT_CRUSADERS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "高橋瞳/BEAT CRUSADERS DL",
+      "has_synced": true,
+      "path": "select/05_ウォーアイニー_高橋瞳_BEAT_CRUSADERS_DL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "高橋瞳",
+      "has_synced": true,
+      "path": "select/06_ウォーアイニー_高橋瞳.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "Hitomi Takahashi×BEAT CRUSADERS",
+      "has_synced": true,
+      "path": "select/07_ウォーアイニー_Hitomi_Takahashi×BEAT_CRUSADERS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "高橋瞳",
+      "has_synced": true,
+      "path": "select/08_ウォーアイニー_高橋瞳.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ウォーアイニー - Woh I Nee",
+      "artist": "Hitomi Takahashi • BEAT CRUSADERS",
+      "has_synced": true,
+      "path": "select/09_ウォーアイニー_-_Woh_I_Nee_Hitomi_Takahashi_•_BEAT_CRUSADERS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "高橋瞳×BEAT CRUSADERS",
+      "has_synced": true,
+      "path": "select/10_ウォーアイニー_高橋瞳×BEAT_CRUSADERS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "Hitomi Takahashi, BEAT CRUSADERS",
+      "has_synced": true,
+      "path": "select/11_ウォーアイニー_Hitomi_Takahashi,_BEAT_CRUSADERS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ウォーアイニー (アニメ「銀魂」ver.)",
+      "artist": "Hitomi Takahashi",
+      "has_synced": true,
+      "path": "select/12_ウォーアイニー_(アニメ「銀魂」ver.)_Hitomi_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "高橋瞳 × BEAT CRUSADERS",
+      "has_synced": true,
+      "path": "select/13_ウォーアイニー_高橋瞳_×_BEAT_CRUSADERS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "Beat Crusaders",
+      "has_synced": true,
+      "path": "select/14_ウォーアイニー_Beat_Crusaders.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "高橋瞳 × BEAT CRUSADERS",
+      "has_synced": true,
+      "path": "select/15_ウォーアイニー_高橋瞳_×_BEAT_CRUSADERS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ウォーアイニー",
+      "artist": "Hitomi Takahashi",
+      "has_synced": true,
+      "path": "select/16_ウォーアイニー_Hitomi_Takahashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウォーアイニー",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_01_ウォーアイニー_水曜日のカンパネラ.txt"
+    }
+  ]
+}
